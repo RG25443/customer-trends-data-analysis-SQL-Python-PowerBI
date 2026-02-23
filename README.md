@@ -1,83 +1,52 @@
-🔍 Customer Behavior Data Analysis | End-to-End Analytics Portfolio Project
+# Customer Behavior Data Analysis | End-to-End Analytics Portfolio Project
 
-This project showcases a complete, real-world data analytics workflow where retail customer behavior is analyzed to deliver actionable business insights.
-It demonstrates how raw data can be transformed into decision-ready intelligence using industry-standard tools.
+This project demonstrates a complete, industry-standard data analytics workflow where retail customer behavior is analyzed to generate actionable business insights. The objective is to transform raw customer data into decision-ready intelligence using modern analytics tools and best practices.
 
-🚀 Project Highlights
+The project covers the full analytics lifecycle, from data cleaning and exploration to SQL-based analysis and interactive dashboard creation, reflecting real-world responsibilities of a professional Data Analyst.
 
-End-to-end analytics workflow: Python → SQL → Power BI
+## Project Highlights
+- End-to-end analytics workflow: Python → SQL → Power BI
+- Business-focused customer behavior analysis
+- Interactive dashboard designed for stakeholder decision-making
 
-Business-driven analysis focused on customer behavior and revenue impact
+## Problem Statement
+Understanding customer behavior is critical for improving revenue, retention, and marketing performance. This project analyzes customer shopping data to uncover patterns related to purchasing behavior, loyalty, and customer value, enabling data-driven business decisions.
 
-Interactive dashboard designed for stakeholder decision-making
+## Project Work Summary
+- Cleaned and transformed raw customer data using Python (Pandas, NumPy)
+- Performed Exploratory Data Analysis (EDA) to identify trends and patterns
+- Designed and populated a SQL database using processed data from Python
+- Wrote SQL queries to analyze:
+  - Customer segments
+  - Repeat purchases and loyalty
+  - Revenue contribution by customer groups
+- Built an interactive Power BI dashboard with KPIs, filters, and visuals
+- Converted analytical findings into clear business recommendations
 
-🧠 Problem Statement
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL / PostgreSQL / MS SQL Server)
+- Power BI
+- Jupyter Notebook
 
-Businesses need to understand who their customers are, how they purchase, and what drives revenue.
-This project analyzes customer shopping behavior to identify patterns that support marketing, retention, and growth strategies.
+## Key Insights
+- Identification of high-value and repeat customers
+- Analysis of purchase frequency and buying behavior
+- Revenue contribution by different customer segments
+- Insights to support marketing optimization and customer retention
 
-🔑 My Contributions
+## Business Impact
+The insights from this project help stakeholders:
+- Identify and target high-value customer segments
+- Improve customer retention strategies
+- Make informed, data-driven business decisions
 
-Cleaned and transformed raw customer data using Python (Pandas, NumPy)
+## Skills Demonstrated
+- Data Cleaning and Data Preparation
+- Exploratory Data Analysis (EDA)
+- SQL for Business Analytics
+- Data Visualization and Dashboarding (Power BI)
+- Insight Communication and Storytelling
 
-Performed Exploratory Data Analysis (EDA) to uncover trends and anomalies
-
-Designed and populated a SQL database from Python
-
-Developed SQL queries to analyze:
-
-Customer segments
-
-Repeat purchases & loyalty
-
-Revenue contribution
-
-Built an interactive Power BI dashboard with KPIs and filters
-
-Translated technical findings into clear business recommendations
-
-🛠 Tools & Technologies
-
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-SQL (MySQL / PostgreSQL / MS SQL Server)
-
-Power BI
-
-Jupyter Notebook
-
-📊 Key Insights
-
-Identification of high-value and repeat customers
-
-Purchase frequency and behavior trends
-
-Revenue contribution by customer segments
-
-Data-driven insights to improve marketing and retention strategies
-
-🎯 Business Impact
-
-This analysis enables stakeholders to:
-
-Target high-value customer segments
-
-Optimize customer retention strategies
-
-Improve data-driven decision-making
-
-💼 Skills Demonstrated
-
-Data Cleaning & Transformation
-
-Exploratory Data Analysis (EDA)
-
-SQL for Business Analytics
-
-Dashboard Development (Power BI)
-
-Insight Communication & Storytelling
-
-⭐ Why This Project Matters
-
-This project reflects how professional Data Analysts work — owning the process from raw data to business insight — and serves as a strong portfolio project for analytics roles.
+## Why This Project Matters
+This project reflects how real-world Data Analysts operate, taking ownership of the process from raw data to business insights, and serves as a strong portfolio project for data analytics roles.
